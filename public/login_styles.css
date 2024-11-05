@@ -11,6 +11,7 @@ body {
 	min-height: 100vh;
 	background-size: cover;
 	background-position: center;
+	font-family: sans-serif;
 }
 
 .wrapper {
@@ -104,5 +105,5 @@ body {
 	width: 300px;
 	position: absolute;
 	bottom: 50px;
-	left: 50%;
+	align-items: center;
 }
